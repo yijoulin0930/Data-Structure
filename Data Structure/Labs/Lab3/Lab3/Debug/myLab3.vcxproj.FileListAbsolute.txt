@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\myLab3\Debug\myLab3.exe
+C:\Users\user\Desktop\week2\myLab3\Debug\myLab3.exe
+C:\Users\user\Desktop\week2\Lab3\Debug\myLab3.exe

@@ -1,0 +1,27 @@
+﻿  mySystem_MonteCarlo.cpp
+C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(25): warning C4482: nonstandard extension used: enum 'MCS_OPTION' used in qualified name
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(119): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(120): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(179): warning C4482: nonstandard extension used: enum 'MCS_OPTION' used in qualified name
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(183): warning C4482: nonstandard extension used: enum 'MCS_OPTION' used in qualified name
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(205): warning C4482: nonstandard extension used: enum 'MCS_OPTION' used in qualified name
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(210): warning C4482: nonstandard extension used: enum 'MCS_OPTION' used in qualified name
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(203): warning C4101: 'fy' : unreferenced local variable
+  mySystem_QuaticFunction.cpp
+C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_QuaticFunction.cpp(41): warning C4305: 'initializing' : truncation from 'double' to 'float'
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_QuaticFunction.cpp(42): warning C4305: 'initializing' : truncation from 'double' to 'float'
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_QuaticFunction.cpp(43): warning C4305: 'initializing' : truncation from 'double' to 'float'
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_QuaticFunction.cpp(44): warning C4305: 'initializing' : truncation from 'double' to 'float'
+  mySystem_StudentRecordManager.cpp
+C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_StudentRecordManager.cpp(96): warning C4018: '<' : signed/unsigned mismatch
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\Release\myFirstSystem.exe) does not match the Linker's OutputFile property value (C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\bin\Release\enjoy_programming.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(myFirstSystem) does not match the Linker's OutputFile property value (enjoy_programming). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  Finished generating code
+  asm.vcxproj -> C:\Users\user\Desktop\hw01_oop_summer_2021\hw01_oop_summer_2021\OOP_HW01_NET2010_202107_Summer_Template\Release\myFirstSystem.exe

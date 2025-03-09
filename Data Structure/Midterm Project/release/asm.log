@@ -1,0 +1,16 @@
+﻿  mySystem_GraphSystem.cpp
+C:\Users\user\Desktop\hw02_oop_summer_2021 (1)\hw02_oop_summer\OOP_HW02_202107_NET2010_Summer_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\user\Desktop\hw02_oop_summer_2021 (1)\hw02_oop_summer\OOP_HW02_202107_NET2010_Summer_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(196): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(197): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(205): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(240): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(241): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(287): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(334): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(335): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(487): warning C4101: 'tempNodeId' : unreferenced local variable
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(C:\Users\user\Desktop\hw02_oop_summer_2021 (1)\hw02_oop_summer\OOP_HW02_202107_NET2010_Summer_Template\Release\SelfMotivatedSystem.exe) does not match the Linker's OutputFile property value (C:\Users\user\Desktop\hw02_oop_summer_2021 (1)\hw02_oop_summer\OOP_HW02_202107_NET2010_Summer_Template\bin\Release\SelfMotivatedSystem.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  Finished generating code
+  asm.vcxproj -> C:\Users\user\Desktop\hw02_oop_summer_2021 (1)\hw02_oop_summer\OOP_HW02_202107_NET2010_Summer_Template\Release\SelfMotivatedSystem.exe

@@ -1,0 +1,11 @@
+﻿  Lab8_template.cpp
+C:\Users\user\Desktop\Lab8\Lab8_template.cpp(6,1): warning C4005: 'INFINITY': 巨集重複定義
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : 請參閱 'INFINITY' 之前的定義
+C:\Users\user\Desktop\Lab8\Lab8_template.cpp(42,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\Lab8\Lab8_template.cpp(43,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\Lab8\Lab8_template.cpp(72,28): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\user\Desktop\Lab8\Lab8_template.cpp(72,45): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\user\Desktop\Lab8\Lab8_template.cpp(87,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\Lab8\Lab8_template.cpp(91,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\Lab8\Lab8_template.cpp(92,21): warning C4018: '<': signed/unsigned 不相符
+  Lab8.vcxproj -> C:\Users\user\Desktop\Lab8\Debug\Lab8.exe

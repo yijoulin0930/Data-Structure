@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\Lab5\Debug\Lab5.exe
+C:\Users\user\Desktop\week3\Lab5\Debug\Lab5.exe
+H:\柔柔的file\程式\資料結構\Labs\Lab5\Lab5\Debug\Lab5.exe

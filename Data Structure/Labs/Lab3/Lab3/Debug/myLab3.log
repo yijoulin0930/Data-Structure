@@ -1,0 +1,5 @@
+﻿  lab3_Def.cpp
+C:\Users\user\Desktop\week2\Lab3\lab3_Def.cpp(63,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\week2\Lab3\lab3_Def.cpp(77,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\week2\Lab3\lab3_Def.cpp(78,21): warning C4018: '<': signed/unsigned 不相符
+  myLab3.vcxproj -> C:\Users\user\Desktop\week2\Lab3\Debug\myLab3.exe
